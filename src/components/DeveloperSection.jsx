@@ -4,7 +4,6 @@ import designlogo1 from '../assets/designlogo1.png';
 import designlogo2 from '../assets/designlogo2.png';
 import designlogo3 from '../assets/designlogo3.png';
 import designlogo4 from '../assets/designlogo4.png';
-import background from '../assets/background1.png';
 
 const DeveloperSection = () => {
   const features = [
