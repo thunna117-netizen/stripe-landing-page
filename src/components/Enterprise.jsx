@@ -4,8 +4,8 @@ import maerskLogo from '../assets/maersklogo.png';
 import twilioLogo from '../assets/twiliologo.png';
 import bmwLogo from '../assets/bmw.svg';
 import amazomLogo from '../assets/amazon.svg';
-import bmwImg from '../assets/bmw.png';
-import maerskImg from '../assets/maersk.png';
+import bmwImg from '../assets/BMW.png';
+import maerskImg from "../assets/MAERSK.png";
 import paymentsLogo from '../assets/payments-logo.svg';
 import connectLogo from '../assets/connect-logo.svg';
 
