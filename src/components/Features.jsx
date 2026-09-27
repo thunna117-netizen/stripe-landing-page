@@ -175,7 +175,7 @@ const Block4_Connect = () => {
 
       <div className="w-full lg:w-[348px] flex justify-center lg:justify-end shrink-0 mt-8 lg:mt-0">
         <div className="relative w-full flex items-center justify-center transition-transform hover:-translate-y-2 duration-500">
-          <img src={figure2Img} alt="Connect" className="w-[70%] h-auto object-contain drop-shadow-2xl" />
+          <img src={figure2Img} alt="Connect" className="w-[80%] h-auto object-contain drop-shadow-2xl" />
         </div>
       </div>
     </div>

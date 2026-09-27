@@ -118,7 +118,7 @@ const Hero = () => {
           <div className="absolute z-0 flex items-start
             top-1/2 -translate-y-1/2 -mt-2 
             lg:top-[84px] xl:top-[100px] lg:translate-y-0 lg:-mt-16 
-            left-[340px] sm:left-[350px] md:left-[500px] lg:left-[580px] xl:left-[600px] 2xl:left-[650px]"
+            left-[340px] sm:left-[350px] md:left-[500px] lg:left-[580px] xl:left-[600px] 2xl:left-[630px]"
           >
             <div className="relative w-[800px] md:w-[780px] lg:w-[800px] xl:w-[800px] 2xl:w-[850px] grid grid-cols-10 grid-rows-1 transition-all duration-300">
               
